@@ -1,0 +1,15 @@
+C:\FACULDADE\CG\Projeto3dCG\Projeto\bin\Debug\net7.0-windows\Projeto.exe
+C:\FACULDADE\CG\Projeto3dCG\Projeto\bin\Debug\net7.0-windows\Projeto.deps.json
+C:\FACULDADE\CG\Projeto3dCG\Projeto\bin\Debug\net7.0-windows\Projeto.runtimeconfig.json
+C:\FACULDADE\CG\Projeto3dCG\Projeto\bin\Debug\net7.0-windows\Projeto.dll
+C:\FACULDADE\CG\Projeto3dCG\Projeto\bin\Debug\net7.0-windows\Projeto.pdb
+C:\FACULDADE\CG\Projeto3dCG\Projeto\obj\Debug\net7.0-windows\Projeto.csproj.AssemblyReference.cache
+C:\FACULDADE\CG\Projeto3dCG\Projeto\obj\Debug\net7.0-windows\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\FACULDADE\CG\Projeto3dCG\Projeto\obj\Debug\net7.0-windows\Projeto.AssemblyInfoInputs.cache
+C:\FACULDADE\CG\Projeto3dCG\Projeto\obj\Debug\net7.0-windows\Projeto.AssemblyInfo.cs
+C:\FACULDADE\CG\Projeto3dCG\Projeto\obj\Debug\net7.0-windows\Projeto.csproj.CoreCompileInputs.cache
+C:\FACULDADE\CG\Projeto3dCG\Projeto\obj\Debug\net7.0-windows\Projeto.dll
+C:\FACULDADE\CG\Projeto3dCG\Projeto\obj\Debug\net7.0-windows\refint\Projeto.dll
+C:\FACULDADE\CG\Projeto3dCG\Projeto\obj\Debug\net7.0-windows\Projeto.pdb
+C:\FACULDADE\CG\Projeto3dCG\Projeto\obj\Debug\net7.0-windows\Projeto.genruntimeconfig.cache
+C:\FACULDADE\CG\Projeto3dCG\Projeto\obj\Debug\net7.0-windows\ref\Projeto.dll
